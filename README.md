@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Surabaya University<br>🌱 I’m currently learning C#, OOP, HTML, CSS, Linux<br>💬 Im a newbie, don't ask me anything<br><br>🎨I love anime, manga, music (especially Rock).
+🔭 I’m currently studying on Surabaya University<br>🌱 I’m currently learning C#, OOP, HTML, CSS, Linux<br>💬 Im a newbie, don't ask me anything<br>🎨I love anime, manga, music (especially Rock).
 
 
 ## 🌐 Socials:
