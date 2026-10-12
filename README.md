@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Valen</h1>
+<div align="center">
+  <img
+    src="https://img.magnific.com/free-photo/anime-style-character-space_23-2151134155.jpg?semt=ais_hybrid&w=740&q=80"
+    alt="Header GIF"
+    width="100%"
+  />
+</div><h1 align="center">Hi 👋, I'm Valen</h1>
 <h3 align="center">Computer Science Student on Surabaya University, Indonesia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valennxero" alt="valennxero" /></a> </p>
